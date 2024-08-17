@@ -2,6 +2,7 @@
     "checkver": {
         "url": "https://github.com/chrisant996/dirx/releases",
         "regex": "dirx-v([\\d.]+).zip"
+    },
     "description": "The dir command, extended",
     "homepage": "https://github.com/chrisant996/dirx",
     "license": "MIT",

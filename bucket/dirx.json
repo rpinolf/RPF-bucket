@@ -1,9 +1,5 @@
 {
     "version": "0.22",
-    "checkver": {
-        "url": "https://github.com/chrisant996/dirx/releases",
-        "regex": "dirx-v([\\d.]+).zip"
-    },
     "description": "The dir command, extended",
     "homepage": "https://github.com/chrisant996/dirx",
     "license": "MIT",
@@ -14,6 +10,7 @@
         }
     },
     "bin": "dirx.exe",
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {

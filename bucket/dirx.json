@@ -1,4 +1,5 @@
 {
+    "version": "0.22",
     "checkver": {
         "url": "https://github.com/chrisant996/dirx/releases",
         "regex": "dirx-v([\\d.]+).zip"
